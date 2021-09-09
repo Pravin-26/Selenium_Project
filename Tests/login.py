@@ -40,4 +40,4 @@ class LoginTest(unittest.TestCase):
         print("Test Completed")
 
 if __name__ == '__main__':
-    unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output='/Users/pravinshinde/Documents/Project/SoftwareProject/reports'))
+    unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output='/reports'))
